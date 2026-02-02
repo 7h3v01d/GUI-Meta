@@ -1,4 +1,4 @@
-# 🧪 GUI Meta — File & Torrent Integrity Toolkit (Archived)
+# 🧪 GUI Meta (TorInfo) — File & Torrent Integrity Toolkit (Archived)
 
 A Python-based toolkit for **verifying downloaded files against torrent metadata**, with additional media-aware parsing and a GUI front-end.
 
